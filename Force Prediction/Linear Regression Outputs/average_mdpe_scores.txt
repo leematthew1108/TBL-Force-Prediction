@@ -1,0 +1,24 @@
+Output Column: Fx
+Average of MdPEs across 10 folds: -36.7804584706539
+Standard Deviation of MdPEs across 10 folds: 20.892706340831225
+
+Output Column: Fy
+Average of MdPEs across 10 folds: -46.07313711740196
+Standard Deviation of MdPEs across 10 folds: 17.671529930020984
+
+Output Column: Fz
+Average of MdPEs across 10 folds: -61.2386346850238
+Standard Deviation of MdPEs across 10 folds: 48.880701189682334
+
+Output Column: Tx
+Average of MdPEs across 10 folds: -38.204011250287785
+Standard Deviation of MdPEs across 10 folds: 24.117843978970264
+
+Output Column: Ty
+Average of MdPEs across 10 folds: -40.57377985730872
+Standard Deviation of MdPEs across 10 folds: 22.174724135640826
+
+Output Column: Tz
+Average of MdPEs across 10 folds: 31.773988365995994
+Standard Deviation of MdPEs across 10 folds: 70.39106810230714
+

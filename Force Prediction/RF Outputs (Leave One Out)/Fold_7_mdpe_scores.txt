@@ -1,0 +1,24 @@
+Output Column: Fx
+Average of MdPEs: -0.11240088836353207
+Standard Deviation of MdPEs: 0.2871698630989048
+
+Output Column: Fy
+Average of MdPEs: -0.14856363139431975
+Standard Deviation of MdPEs: 0.6637134287475965
+
+Output Column: Fz
+Average of MdPEs: -0.06676460911946337
+Standard Deviation of MdPEs: 1.3740790739683175
+
+Output Column: Tx
+Average of MdPEs: -0.3585636202984974
+Standard Deviation of MdPEs: 0.5383602706837503
+
+Output Column: Ty
+Average of MdPEs: -0.23240622766121546
+Standard Deviation of MdPEs: 0.3207104103802325
+
+Output Column: Tz
+Average of MdPEs: 0.22233497654458775
+Standard Deviation of MdPEs: 1.1366442376621337
+

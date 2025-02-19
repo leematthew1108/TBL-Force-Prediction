@@ -1,0 +1,48 @@
+Output Column: Fx
+Average of MdPEs: -26.436204957905307
+Standard Deviation of MdPEs: 16.893832582619233
+
+Output Column: Fy
+Average of MdPEs: -13.743107405689408
+Standard Deviation of MdPEs: 23.699391615087563
+
+Output Column: Fz
+Average of MdPEs: -63.182925300764886
+Standard Deviation of MdPEs: 38.763985194978126
+
+Output Column: Tx
+Average of MdPEs: -7.35181931802154
+Standard Deviation of MdPEs: 32.84305921091999
+
+Output Column: Ty
+Average of MdPEs: -17.16687943231592
+Standard Deviation of MdPEs: 22.61747739432016
+
+Output Column: Tz
+Average of MdPEs: -11.017669399593414
+Standard Deviation of MdPEs: 34.38843015522073
+
+Output Column: Fx
+Average of MdPEs: -26.436204957905307
+Standard Deviation of MdPEs: 16.893832582619233
+
+Output Column: Fy
+Average of MdPEs: -13.743107405689411
+Standard Deviation of MdPEs: 23.699391615087556
+
+Output Column: Fz
+Average of MdPEs: -63.18292530076488
+Standard Deviation of MdPEs: 38.76398519497811
+
+Output Column: Tx
+Average of MdPEs: -7.351819318021538
+Standard Deviation of MdPEs: 32.84305921091999
+
+Output Column: Ty
+Average of MdPEs: -17.16687943231592
+Standard Deviation of MdPEs: 22.617477394320158
+
+Output Column: Tz
+Average of MdPEs: -11.017669399593416
+Standard Deviation of MdPEs: 34.38843015522073
+
